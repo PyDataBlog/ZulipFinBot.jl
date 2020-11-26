@@ -1,0 +1,13 @@
+name = "ZulipFinBot"
+uuid = "5e9f7014-0187-4856-9f93-1257da1aca80"
+authors = ["Bernard Brenyah & Andrey Oskin"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
