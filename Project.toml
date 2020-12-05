@@ -3,6 +3,9 @@ uuid = "5e9f7014-0187-4856-9f93-1257da1aca80"
 authors = ["Bernard Brenyah & Andrey Oskin"]
 version = "0.1.0"
 
+[deps]
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+
 [compat]
 julia = "1"
 
